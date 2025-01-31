@@ -1,2 +1,2 @@
 # yelpClone
-Simple Yelp Clone build using PERN stack 
+Simple Yelp Clone built using PERN stack 
